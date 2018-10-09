@@ -1,0 +1,5 @@
+[BT]1<>-1[Manager]
+[BT]1<>-25[Player]
+[Player]-1....X[Role]
+[Role]^-[Pitcher]
+[Role]^-[Catcher]
