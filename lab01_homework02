@@ -1,0 +1,8 @@
+[Ihowisiumlabati]<>-[Sale]
+[Ihowisiumlabati]<>-[Other Services]
+[Other Services]^-[Help in sales]
+[Sale]^-[BigT]
+[Sale]^-[SmallT]
+[BigT]-[Public buildings]
+[SmallT]-[RealEstate]
+[SmallT]-[Flats]
