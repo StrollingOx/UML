@@ -1,4 +1,4 @@
-[Painting]1<>-1[Rock]
+[Painting]1^-1..*[Rock]
 [Rock]1<>-1..*[Color]
 [Rock]1<>-1..*[Contour]
 [Color]-1....X[Source]
